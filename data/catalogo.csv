@@ -1,0 +1,41 @@
+id,nombre,municipio,categoria,lat,lon,duracion_visita_min,fuente_duracion
+M01,Armenia (Plaza de Bolivar),Armenia,Cabecera municipal,4.5339,-75.6811,0,No aplica
+M02,Buenavista (plaza principal),Buenavista,Cabecera municipal,4.3597,-75.7381,0,No aplica
+M03,Calarca (plaza principal),Calarca,Cabecera municipal,4.5292,-75.6428,0,No aplica
+M04,Circasia (plaza principal),Circasia,Cabecera municipal,4.6178,-75.6358,0,No aplica
+M05,Cordoba (plaza principal),Cordoba,Cabecera municipal,4.3917,-75.6869,0,No aplica
+M06,Filandia (plaza principal),Filandia,Cabecera municipal,4.6753,-75.6592,0,No aplica
+M07,Genova (plaza principal),Genova,Cabecera municipal,4.2072,-75.7911,0,No aplica
+M08,La Tebaida (plaza principal),La Tebaida,Cabecera municipal,4.4533,-75.7878,0,No aplica
+M09,Montenegro (plaza principal),Montenegro,Cabecera municipal,4.5667,-75.7519,0,No aplica
+M10,Pijao (plaza principal),Pijao,Cabecera municipal,4.3319,-75.7007,0,No aplica
+M11,Quimbaya (plaza principal),Quimbaya,Cabecera municipal,4.6264,-75.7633,0,No aplica
+M12,Salento (plaza principal),Salento,Cabecera municipal,4.6372,-75.5717,0,No aplica
+T01,Parque Nacional del Cafe,Montenegro,Atractivo turistico,4.5430,-75.8030,300,Criterio del grupo (visita completa del parque)
+T02,PANACA,Quimbaya,Atractivo turistico,4.5990,-75.7880,300,Criterio del grupo (visita completa del parque)
+T03,Valle de Cocora,Salento,Atractivo turistico,4.6370,-75.4870,240,Criterio del grupo (caminata corta y mirador)
+T04,Jardin Botanico del Quindio,Calarca,Atractivo turistico,4.5330,-75.6660,150,Criterio del grupo (recorrido guiado)
+T05,Museo del Oro Quimbaya,Armenia,Atractivo turistico,4.5535,-75.6745,90,Criterio del grupo (recorrido de museo)
+T06,Mirador Alto de la Cruz,Salento,Atractivo turistico,4.6385,-75.5695,45,Criterio del grupo (subida y mirador)
+T07,Mirador Colina Iluminada,Filandia,Atractivo turistico,4.6740,-75.6560,40,Criterio del grupo (mirador)
+T08,Reserva Natural Barbas-Bremen,Filandia,Atractivo turistico,4.7000,-75.6350,180,Criterio del grupo (sendero)
+T09,Parque de la Vida,Armenia,Atractivo turistico,4.5285,-75.6975,60,Criterio del grupo (parque urbano)
+T10,Pueblo Tapao,Montenegro,Atractivo turistico,4.5610,-75.7800,90,Criterio del grupo (recorrido cultural)
+T11,Parque Los Arrieros,Armenia,Atractivo turistico,4.5395,-75.6700,45,Criterio del grupo (parque urbano)
+T12,Mirador Cristo Rey,Genova,Atractivo turistico,4.2150,-75.7870,40,Criterio del grupo (mirador)
+T13,Parque Ecologico Penas Blancas,Calarca,Atractivo turistico,4.5000,-75.6200,120,Criterio del grupo (sendero)
+T14,Cascada de Santa Rita,Circasia,Atractivo turistico,4.6250,-75.6500,90,Criterio del grupo (caminata corta)
+T15,Canon del Rio Barragan,Pijao,Atractivo turistico,4.2900,-75.6900,120,Criterio del grupo (sendero)
+F01,Hacienda Combia,Calarca,Finca cafetera u hotel rural,4.5100,-75.6300,0,No aplica
+F02,Finca El Ocaso,Salento,Finca cafetera u hotel rural,4.6200,-75.5500,0,No aplica
+F03,Recuca,Calarca,Finca cafetera u hotel rural,4.5000,-75.7100,0,No aplica
+F04,Hacienda Bambusa,Montenegro,Finca cafetera u hotel rural,4.5500,-75.7600,0,No aplica
+F05,Finca Don Manolo,Salento,Finca cafetera u hotel rural,4.6350,-75.5800,0,No aplica
+F06,Finca La Cabana,Circasia,Finca cafetera u hotel rural,4.6100,-75.6200,0,No aplica
+F07,Finca La Esmeralda,Quimbaya,Finca cafetera u hotel rural,4.6300,-75.7500,0,No aplica
+F08,Finca Mi Terruno,Pijao,Finca cafetera u hotel rural,4.3400,-75.6900,0,No aplica
+A01,Cooperativa de Caficultores del Quindio,Armenia,Centro de acopio o trilladora,4.5450,-75.6750,0,No aplica
+A02,Cooperativa de Caficultores de Calarca,Calarca,Centro de acopio o trilladora,4.5260,-75.6400,0,No aplica
+A03,Cooperativa de Caficultores de Montenegro,Montenegro,Centro de acopio o trilladora,4.5640,-75.7490,0,No aplica
+A04,Cooperativa de Caficultores de Quimbaya,Quimbaya,Centro de acopio o trilladora,4.6240,-75.7620,0,No aplica
+A05,Cooperativa de Caficultores de Genova,Genova,Centro de acopio o trilladora,4.2100,-75.7900,0,No aplica

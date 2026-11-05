@@ -1,0 +1,10 @@
+osmnx>=2.0
+networkx>=3.2
+numpy
+scipy
+pandas
+matplotlib
+pyproj
+folium
+flask
+psutil

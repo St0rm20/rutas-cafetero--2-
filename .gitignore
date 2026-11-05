@@ -1,0 +1,5 @@
+build/
+__pycache__/
+data/raw/*.graphml
+data/processed/*.graphml
+*.pyc
